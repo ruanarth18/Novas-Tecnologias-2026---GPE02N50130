@@ -1,1 +1,13 @@
+# Atividade 5 - Análise Exploratória do Titanic
 
+Este diretório contém a resolução da atividade AT5.
+O objetivo é analisar o perfil dos passageiros do Titanic e identificar padrões de sobrevivência.
+
+## Estrutura de Arquivos
+- `AT5.ipynb`: Notebook com o código Python e as análises.
+- `data/train.csv`: Base de dados utilizada.
+
+## Tecnologias Utilizadas
+- Python 3
+- Pandas (Manipulação de dados)
+- Matplotlib/Seaborn (Visualização)
